@@ -6,8 +6,8 @@
 - 🌱 I am currently pursuing my B.Tech from the School of Engineering at NSEC specializing in Computer Science Engineering. I am an ambitious and motivated individual seeking a valuable internship opportunity to enhance my skills, gain practical experience, and launch a successful career in the field of IT.
 - 💞️ If you are interested in connecting with me regarding internship opportunities or any other position within your esteemed organization, please feel free to email me at ershrutipvt@gmail.com or connect with me on LinkedIn. I would be delighted to discuss how my skills and enthusiasm align with.
 - 📫 How to reach me ...https://www.linkedin.com/in/shruti-bose-61b4a0259
-
-<!---
+- 🧿 Have a look at my GDSC profile: 
+https://g.dev/Shrutibose<!---
 Shrutibose/Shrutibose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
